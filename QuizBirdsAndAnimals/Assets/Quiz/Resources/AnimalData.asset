@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: AnimalData
+  m_EditorClassIdentifier: 
+  categoryName: Animal
+  questions:
+  - questionInfo: Which animal eats  " meat "?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEDE\uFEF4\uFED4\uFEDF\uFE8D"
+    - "\uFEAA\uFEB3\uFEFB\uFE8D"
+    - "\uFEB0\uFECB\uFE8E\uFEE4\uFEDF\uFE8D"
+    - "\uFEDD\uFE8D\uFEB0\uFED0\uFEDF\uFE8D"
+    correctAns: "\uFEAA\uFEB3\uFEFB\uFE8D"
+  - questionInfo: Which animal can climb trees?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEA9\uFEAE\uFED8\uFEDF\uFE8D"
+    - "\uFEAA\uFEB3\uFEFB\uFE8D"
+    - "\uFE90\uFEE0\uFEDC\uFEDF\uFE8D"
+    - "\uFEE1\uFE8E\uFECC\uFEE8\uFEDF\uFE8D"
+    correctAns: "\uFEA9\uFEAE\uFED8\uFEDF\uFE8D"
+  - questionInfo: Which of the following animal is Herbivorous?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEA1\uFE8E\uFEB4\uFEE4\uFE97"
+    - "\uFEAE\uFEE4\uFEE8\uFEDF\uFE8D"
+    - "\uFEB1\uFEEE\uFEE3\uFE8E\uFEA0\uFEDF\uFE8D"
+    - "\uFEAE\uFEB4\uFEE8\uFEDF\uFE8D"
+    correctAns: "\uFEB1\uFEEE\uFEE3\uFE8E\uFEA0\uFEDF\uFE8D"
+  - questionInfo: Who can walk on 2 legs?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEA1\uFE8E\uFEB4\uFEE4\uFE97"
+    - "\uFEAA\uFEB3\uFEFB\uFE8D"
+    - "\uFEB1\uFEEE\uFEE3\uFE8E\uFEA0\uFEDF\uFE8D"
+    - "\uFEE5\uFE8E\uFEB4\uFEE7\uFEFB\uFE8D"
+    correctAns: "\uFEE5\uFE8E\uFEB4\uFEE7\uFEFB\uFE8D"
+  - questionInfo: fastest animal on the earth?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEAA\uFEEC\uFED4\uFEDF\uFE8D"
+    - "\uFE93\uFE8E\uFED4\uFEA4\uFEE0\uFEB4\uFEDF\uFE8D"
+    - "\uFEB1\uFEED\uFEED\uFE8E\uFEC4\uFEDF\uFE8D"
+    - "\uFECA\uFE92\uFEC0\uFEDF\uFE8D"
+    correctAns: "\uFEAA\uFEEC\uFED4\uFEDF\uFE8D"

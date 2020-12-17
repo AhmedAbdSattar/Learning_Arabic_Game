@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: QuestionsData
+  m_EditorClassIdentifier: 
+  categoryName: Mix
+  questions:
+  - questionInfo: what is the first letter in arabic ?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\u0628"
+    - "\u062C"
+    - "\u0649"
+    - "\u0623"
+    correctAns: "\u0623"
+  - questionInfo: what is the meaning of "Boy"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE96\uFEE8\uFE91"
+    - "\uFEAA\uFEDF\uFEED"
+    - "\uFEBA\uFEA8\uFEB7"
+    - "\uFE90\uFEA3\uFE8E\uFEBB"
+    correctAns: "\uFEAA\uFEDF\uFEED"
+  - questionInfo: Quess the animal?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: c0bb50585e74c4e42afe23172c92e36f, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEAA\uFEB3\uFE8D"
+    - "\uFEAE\uFEEC\uFEE8\uFEDF\uFE8D \uFEB1\uFEAE\uFED3"
+    - "\uFEA9\uFEAE\uFED7"
+    - " \uFEDE\uFEF4\uFED3"
+    correctAns: " \uFEDE\uFEF4\uFED3"
+  - questionInfo: "what is the largest (\"\uFEAE\uFE92\uFEDB\uFE8D \") animal on
+      the Earth ??"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEDE\uFEF4\uFED3"
+    - "\uFED5\uFEAD\uFEAF\uFE8D \uFE95\uFEEE\uFEA3"
+    - "\uFEB5\uFEAE\uFED7"
+    - "\uFEBE\uFEF4\uFE91\uFE8D \uFE95\uFEEE\uFEA3"
+    correctAns: "\uFED5\uFEAD\uFEAF\uFE8D \uFE95\uFEEE\uFEA3"
+  - questionInfo: how can we hear and sight and tast .through ?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEE5\uFEAB\uFEFB\uFE8D \uFEED \uFED2\uFEE7\uFEFB\uFE8D \uFEED \uFEE6\uFEF4\uFECC\uFEDF\uFE8D"
+    - "\uFEE2\uFED4\uFEDF\uFE8D \uFEED \uFEE6\uFEF4\uFECC\uFEDF\uFE8D \uFEED \uFEE5\uFEAB\uFEFB\uFE8D"
+    - "\uFEAA\uFEF4\uFEDF\uFE8D \uFEED \uFEE6\uFEC4\uFE92\uFEDF\uFE8D \uFEED \uFEE6\uFEF4\uFECC\uFEDF\uFE8D"
+    - "\uFEE1\uFEAA\uFED8\uFEDF\uFE8D \uFEED \uFEE6\uFEF4\uFECC\uFEDF\uFE8D \uFEED
+      \uFEE5\uFEAB\uFEFB\uFE8D"
+    correctAns: "\uFEE2\uFED4\uFEDF\uFE8D \uFEED \uFEE6\uFEF4\uFECC\uFEDF\uFE8D \uFEED
+      \uFEE5\uFEAB\uFEFB\uFE8D"
+  - questionInfo: '3+5-9+1 = '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEAA\uFEA3\uFE8D\uFEED"
+    - "\uFE94\uFEB4\uFEE4\uFEA7"
+    - "\uFEE6\uFEF4\uFEE8\uFE9B\uFE8D"
+    - "\uFEAE\uFED4\uFEBB"
+    correctAns: "\uFEAE\uFED4\uFEBB"
+  - questionInfo: Quess the animal?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 5d00affa1ba994440b82b4f1c20c72fb, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE90\uFEE7\uFEAD\uFEFB\uFE8D"
+    - "\uFE94\uFED3\uFE8D\uFEAD\uFEAF"
+    - "\uFEE5\uFEAE\uFED8\uFEDF\uFE8D \uFEAA\uFEF4\uFEA3\uFEED"
+    - "\uFEAA\uFEEC\uFED4\uFEDF\uFE8D"
+    correctAns: "\uFE90\uFEE7\uFEAD\uFEFB\uFE8D"
+  - questionInfo: which of these is food ?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEF0\uFEB3\uFEAE\uFEDB"
+    - "\uFE90\uFEE0\uFECC\uFE9B"
+    - "\uFE80\uFE8D\uFEAC\uFEA3"
+    - "\uFEAF\uFEAD\uFE8D"
+    correctAns: "\uFEAF\uFEAD\uFE8D"
+  - questionInfo: which is  clothes' piece ?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEF0\uFEB3\uFEAE\uFEDB"
+    - "\uFEE5\uFE8E\uFEBC\uFEA3"
+    - "\uFEE5\uFEEE\uFEE0\uFEC4\uFEE8\uFE91"
+    - "\uFE94\uFED3\uFEAE\uFECF"
+    correctAns: "\uFEE5\uFEEE\uFEE0\uFEC4\uFEE8\uFE91"
+  - questionInfo: which of these is " furnitures' piece" ?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE94\uFED8\uFEF3\uFEAA\uFEA3"
+    - "\uFEAE\uFEF3\uFEAE\uFEB3"
+    - "\uFE90\uFEE0\uFEDB"
+    - "\uFEAD\uFE8E\uFEE4\uFEA3"
+    correctAns: "\uFEAE\uFEF3\uFEAE\uFEB3"
+  - questionInfo: Quess the animal?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 7a07241ec9d50c14583bf87319426eb2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEAE\uFEF3\uFEB0\uFEE8\uFEA7"
+    - "\uFEAA\uFEB3\uFE8D"
+    - "\uFE8F\uFEA9"
+    - "\uFEAE\uFEE4\uFEE7"
+    correctAns: "\uFEAE\uFEE4\uFEE7"
+  - questionInfo: Quess the animal?
+    questionType: 3
+    questionImage: {fileID: 21300000, guid: 7a07241ec9d50c14583bf87319426eb2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 32900000, guid: 532166cfd4456b040bf2f9d173ceb58c, type: 3}
+    options:
+    - "\uFEAE\uFEE4\uFEE7"
+    - "\uFEE5\uFE8E\uFE92\uFECC\uFE9B"
+    - "\uFEA9\uFEAE\uFED7"
+    - "\uFE94\uFEC4\uFED7"
+    correctAns: "\uFE94\uFEC4\uFED7"
+  - questionInfo: Quess the animal?
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: e2e9865d907fe4b4db6b70550ccee95a, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEE5\uFE8E\uFE92\uFECC\uFE9B"
+    - "\uFEA1\uFE8E\uFEB4\uFEE4\uFE97"
+    - "\uFE8F\uFEAE\uFED8\uFECB"
+    - "\uFEAE\uFEF3\uFEB0\uFEE8\uFEA7"
+    correctAns: "\uFEAE\uFEF3\uFEB0\uFEE8\uFEA7"
+  - questionInfo: Quess the animal?
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFEAE\uFEF3\uFEB0\uFEE8\uFEA7"
+    - "\uFE90\uFEE0\uFECC\uFE9B"
+    - "\uFE8F\uFE8D\uFEAE\uFECF"
+    - "\uFE90\uFEE0\uFEDB"
+    correctAns: "\uFE90\uFEE0\uFECC\uFE9B"

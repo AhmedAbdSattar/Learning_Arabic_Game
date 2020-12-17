@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: BirdData
+  m_EditorClassIdentifier: 
+  categoryName: Bird
+  questions:
+  - questionInfo: What is the fastest bird on two legs?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE94\uFEA7\uFEAE\uFED4\uFEDF\uFE8D"
+    - "\uFED6\uFEF3\uFEAE\uFEC4\uFE92\uFEDF\uFE8D"
+    - "\uFE94\uFEE3\uFE8E\uFECC\uFEE8\uFEDF\uFE8D"
+    - "\uFEC2\uFE92\uFEDF\uFE8D"
+    correctAns: "\uFE94\uFEE3\uFE8E\uFECC\uFEE8\uFEDF\uFE8D"
+  - questionInfo: 'what is the most beautiful of these birds ? '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE94\uFEA7\uFEAE\uFED4\uFEDF\uFE8D"
+    - "\uFED6\uFEF3\uFEAE\uFEC4\uFE92\uFEDF\uFE8D"
+    - "\uFEB1\uFEED\uFEED\uFE8E\uFEC4\uFEDF\uFE8D"
+    - "\uFEC2\uFE92\uFEDF\uFE8D"
+    correctAns: "\uFEB1\uFEED\uFEED\uFE8E\uFEC4\uFEDF\uFE8D"
+  - questionInfo: what is the bird which eat "meat" from these ?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE94\uFEA7\uFEAE\uFED4\uFEDF\uFE8D"
+    - "\uFEC2\uFE92\uFEDF\uFE8D"
+    - "\uFE93\uFEAD\uFEEE\uFED4\uFEBC\uFECC\uFEDF\uFE8D"
+    - "\uFEAE\uFEB4\uFEE8\uFEDF\uFE8D"
+    correctAns: "\uFEAE\uFEB4\uFEE8\uFEDF\uFE8D"
+  - questionInfo: Which bird cannot fly?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE94\uFEA7\uFEAE\uFED4\uFEDF\uFE8D"
+    - "\uFE93\uFEAD\uFEEE\uFED4\uFEBC\uFECC\uFEDF\uFE8D"
+    - "\uFEAE\uFEB4\uFEE8\uFEDF\uFE8D"
+    - "\uFE8F\uFE8D\uFEAE\uFED0\uFEDF\uFE8D"
+    correctAns: "\uFE94\uFEA7\uFEAE\uFED4\uFEDF\uFE8D"
+  - questionInfo: Which bird has beautiful voice ?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\uFE8F\uFE8D\uFEAE\uFED0\uFEDF\uFE8D"
+    - "\uFE94\uFEA7\uFEAE\uFED4\uFEDF\uFE8D"
+    - " \uFEE5\uFE8D\uFEED\uFEAE\uFEDC\uFEDF\uFE8D"
+    - "\uFEAE\uFEB4\uFEE8\uFEDF\uFE8D"
+    correctAns: " \uFEE5\uFE8D\uFEED\uFEAE\uFEDC\uFEDF\uFE8D"
